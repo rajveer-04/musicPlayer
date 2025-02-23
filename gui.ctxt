@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=gui
+comment1.params=
+comment1.target=gui()
+comment2.params=
+comment2.target=void\ addGuiComponents()
+comment3.params=filelocation
+comment3.target=javax.swing.ImageIcon\ albumart(java.lang.String)
+numComments=4
